@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working with React & Java Spring
-- based in QATAR <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1f6-1f1e6.svg" alt=""/>
+- based in QATAR <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1f6-1f1e6.svg" alt="" width="40px" height="40px"/>
 <!--
 **sardor0990/sardor0990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
